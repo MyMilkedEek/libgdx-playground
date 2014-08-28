@@ -8,7 +8,7 @@ import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.badlogic.gdx.utils.Array;
-import net.mymilkedeek.random.components.PositionComponent;
+import net.mymilkedeek.libgdx.playground.components.PositionComponent;
 
 /**
  * 27/08/2014 - 10:34

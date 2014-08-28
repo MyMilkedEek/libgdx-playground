@@ -10,11 +10,11 @@ import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.input.GestureDetector;
-import net.mymilkedeek.random.components.PositionComponent;
-import net.mymilkedeek.random.events.systems.MoveCameraSystem;
-import net.mymilkedeek.random.systems.RenderingSystem;
-import net.mymilkedeek.random.systems.ResetPositionSystem;
-import net.mymilkedeek.random.systems.input.InputSystem;
+import net.mymilkedeek.libgdx.playground.components.PositionComponent;
+import net.mymilkedeek.libgdx.playground.events.systems.MoveCameraSystem;
+import net.mymilkedeek.libgdx.playground.systems.RenderingSystem;
+import net.mymilkedeek.libgdx.playground.systems.ResetPositionSystem;
+import net.mymilkedeek.libgdx.playground.systems.input.InputSystem;
 
 public class GameInstance extends Game {
 

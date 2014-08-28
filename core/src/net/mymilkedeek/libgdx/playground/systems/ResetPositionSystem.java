@@ -2,8 +2,8 @@ package net.mymilkedeek.libgdx.playground.systems;
 
 import com.artemis.ComponentMapper;
 import com.artemis.systems.event.EventVoidSystem;
-import net.mymilkedeek.random.components.PositionComponent;
-import net.mymilkedeek.random.events.ResetPositionEvent;
+import net.mymilkedeek.libgdx.playground.components.PositionComponent;
+import net.mymilkedeek.libgdx.playground.events.ResetPositionEvent;
 
 public class ResetPositionSystem extends EventVoidSystem<ResetPositionEvent> {
 

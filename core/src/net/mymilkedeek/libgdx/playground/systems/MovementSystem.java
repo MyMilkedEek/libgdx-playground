@@ -5,8 +5,8 @@ import com.artemis.Entity;
 import com.artemis.Filter;
 import com.artemis.systems.EntityProcessingSystem;
 import com.badlogic.gdx.math.Vector2;
-import net.mymilkedeek.random.components.PositionComponent;
-import net.mymilkedeek.random.components.VelocityComponent;
+import net.mymilkedeek.libgdx.playground.components.PositionComponent;
+import net.mymilkedeek.libgdx.playground.components.VelocityComponent;
 
 /**
  * @author Michael Demey
